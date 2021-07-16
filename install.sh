@@ -12,7 +12,7 @@ echo '
 --------------------------
 '
 
-VER="1.0"
+VER="1.1"
 
 LINK="https://github.com/AnilAntari/NierAutomataRuLinux/releases/download/$VER/generic.tar.gz"
 GAMEPATH="$HOME/.local/share/Steam/steamapps/common/NieRAutomata"
