@@ -3,8 +3,6 @@
 ### Установка:
 
 ```bash
-wget https://raw.githubusercontent.com/AnilAntari/NierAutomataRuLinux/main/install.sh
-сhmod +x install.sh
-./install.sh
+bash -c "bash <(wget -qO- https://raw.githubusercontent.com/AnilAntari/NierAutomataRuLinux/main/install.sh)"
 ```
-![](/photo/ru_sub.jpg)
+![Screenshot](/photo/ru_sub.jpg)
